@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Morteza
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning php
-- 📫 How to reach me morteza9.dev@gmail.com
+- 📫 How to reach me mortezaayashi.dev@gmail.com
 
 <!---
 mortezaDev9/mortezaDev9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
