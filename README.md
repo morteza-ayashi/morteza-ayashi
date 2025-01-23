@@ -11,7 +11,7 @@ Here are the technologies and tools I work with:
 - **Languages**: PHP, JavaScript
 - **Frameworks**: Laravel, TailwindCSS
 - **Databases**: MySQL
-- **Tools**: Git, Postman
+- **Tools**: Linux, Git, Postman
 - **Other**: REST APIs, Backend Development
 
 ---
