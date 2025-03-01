@@ -54,7 +54,7 @@ A real-time chat API built with **Laravel**. Features include:
 
 Let's connect and collaborate! You can find me on:
 
-- [LinkedIn](www.linkedin.com/in/morteza-ayashi-239653194)
+- [LinkedIn](https://www.linkedin.com/in/morteza-ayashi-239653194)
 
 ---
 
